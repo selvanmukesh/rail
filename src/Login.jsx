@@ -19,6 +19,10 @@ export default function Login() {
           <label htmlFor="">Password</label><br />
           <input type="text" className='w-100' />
         </div>
+        <div className='w-100'>
+          <label htmlFor="">Password</label><br />
+          <input type="text" className='w-100' />
+        </div>
       </div>
     </section>
   )
